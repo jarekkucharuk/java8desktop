@@ -1,5 +1,4 @@
 package pl.dominisz.java8desktop;
-
 /**
  * http://dominisz.pl
  * 25.03.2018
